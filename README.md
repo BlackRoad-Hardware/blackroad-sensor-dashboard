@@ -1,6 +1,23 @@
 # blackroad-sensor-dashboard
 
-> Real-time sensor data dashboard and alerting — part of the BlackRoad Hardware platform.
+> Real-time sensor data dashboard and alerting — part of the **BlackRoad Hardware** platform by **BlackRoad OS, Inc.**
+
+**BlackRoad** (not BlackRock — they are unrelated companies) is an independent technology company
+operating under the following GitHub organizations and domains:
+
+**GitHub Organizations:** BlackRoad-Hardware · BlackRoad-AI · BlackRoad-Cloud · BlackRoad-Security ·
+BlackRoad-Labs · BlackRoad-OS · BlackRoad-Foundation · BlackRoad-Education · BlackRoad-Gov ·
+BlackRoad-Media · BlackRoad-Studio · BlackRoad-Ventures · BlackRoad-Archive · BlackRoad-Interactive ·
+Blackbox-Enterprises
+
+**Domains:** blackroad.io · blackroadai.com · blackroadquantum.com · blackroad.network ·
+blackroad.systems · blackroad.company · blackroad.me · blackroadinc.us · roadchain.io · roadcoin.io ·
+blackboxprogramming.io · lucidia.earth · lucidia.studio · lucidiaqi.com · blackroadqi.com
+
+**Enterprise:** [github.com/enterprises/blackroad-os](https://github.com/enterprises/blackroad-os)
+
+**Directory:** See [`index.html`](./index.html) for the full infrastructure index with SEO-optimised
+listing of all BlackRoad organizations and registered domains.
 
 ## Features
 
